@@ -1,0 +1,16 @@
+numpy==1.14.2
+gym==0.10.4
+ptan==0.3
+opencv-python==3.4.0.12
+scipy==1.0.1
+torchvision==0.2.1
+tensorboard-pytorch==0.7.1
+tensorflow==1.7.0
+tensorboard==1.7.0
+
+#added pytorch in this way:
+#pip3 install https://download.pytorch.org/whl/cu90/torch-1.0.1-cp36-cp36m-win_amd64.whl
+
+#added atari-py in this way on Windows machine (normally only supported on Linux/MacOS):
+#pip install --no-index -f https://github.com/Kojoley/atari-py/releases atari_py
+## from StackOverflow: https://stackoverflow.com/questions/42605769/openai-gym-atari-on-windows/46739299
