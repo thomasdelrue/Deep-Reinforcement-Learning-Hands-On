@@ -4,5 +4,6 @@ venv/
 **/runs
 **/recording
 **/mon
+**/*.pyc
 
 
