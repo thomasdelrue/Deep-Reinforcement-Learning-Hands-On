@@ -5,7 +5,7 @@ opencv-python==3.4.0.12
 scipy==1.0.1
 torchvision==0.2.1
 tensorboard-pytorch==0.7.1
-tensorflow==1.7.0
+tensorflow==1.15.2
 tensorboard==1.7.0
 
 #added pytorch in this way:
